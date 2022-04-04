@@ -1,5 +1,5 @@
 ### Hi there👋
-### Hola, soy estudiante de la licenciatura en computación de la Escuela de Ciencias UABJO, Actualmente estoy aprendiendo a Programar con diferentes lenguajes.
+### Hola, soy estudiante de la licenciatura en computación de la Escuela de Ciencias UABJO, Actualmente estoy aprendiendo a Programar con lenguajes diferentes.
 
 <!--
 **Maritzarmz/Maritzarmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
